@@ -44,7 +44,7 @@ The system is *instrumented* with:
 
 <img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/c6155d51-8f06-49c6-a999-e61ad1d48772" />
 
-
+---
 
 ## Result
 ---
