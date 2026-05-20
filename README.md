@@ -42,7 +42,8 @@ The system is *instrumented* with:
 
 ## Graph
 
-<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/59292d7f-640e-492d-9d66-4ee41b128ae7" />
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/c6155d51-8f06-49c6-a999-e61ad1d48772" />
+
 
 
 ## Result
