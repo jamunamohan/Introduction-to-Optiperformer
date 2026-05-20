@@ -54,5 +54,3 @@ The system is *instrumented* with:
 Thus, the OptiPerformer software was successfully installed, and the given sample file was executed successfully.
 
 ---
-
-
