@@ -40,8 +40,8 @@ The system is *instrumented* with:
 ---
 <img width="1081" height="1073" alt="image" src="https://github.com/user-attachments/assets/2f8bbb8e-e184-4e56-a6c8-b3d3b696ac3f" />
 
-<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/f1854390-7872-4cb6-bcfd-6908baa980b5" />
----
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/59292d7f-640e-492d-9d66-4ee41b128ae7" />
+
 
 ## Result
 ---
