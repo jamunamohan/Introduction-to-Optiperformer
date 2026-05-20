@@ -36,7 +36,14 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
+## Tabulation
+
+<img width="1081" height="1073" alt="image" src="https://github.com/user-attachments/assets/2f8bbb8e-e184-4e56-a6c8-b3d3b696ac3f" />
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/f1854390-7872-4cb6-bcfd-6908baa980b5" />
+
 ## Result
+
+Thus, the OptiPerformer software was successfully installed, and the given sample file was executed successfully.
 
 ---
 
